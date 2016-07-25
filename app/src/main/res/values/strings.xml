@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Calendario</string>
+    <string name="title_activity_evento">EventoActivity</string>
+</resources>
